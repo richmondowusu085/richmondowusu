@@ -22,4 +22,4 @@ theory, decision modeling, and survival analysis.
 R · Python · SQL · MATLAB · SPSS · Tableau
 
 ## 📫 Reach me
-[LinkedIn](link) · [Portfolio](link) · richmondowusu085@gmail.com
+ · richmondowusu085@gmail.com
